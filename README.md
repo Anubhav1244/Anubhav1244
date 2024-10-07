@@ -33,15 +33,15 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in various tech
 
 - **Languages:** JavaScript, Python, C++, Java, HTML, CSS
 - **Frameworks/Libraries:** React, Node.js, Express, Flask, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, MongoDB
 - **Other Skills:** Git, Docker, Kubernetes, AWS, CI/CD, Problem Solving (DSA)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashkumar1244&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashkumar1244&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav1244&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav1244&layout=compact&theme=radical)
 
 ---
 
